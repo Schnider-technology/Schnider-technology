@@ -40,9 +40,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br/>
 <br/>
-<br/>
-<br/>
-###<h4> Statistic</h4>
+<h4> Statistic</h4>
 <br/>
 <br/>
 <br/>
@@ -59,6 +57,11 @@
 <br/>
 
 <hr/>
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Schnider-technology&theme=gruvbox_duo&hide_border=true)](https://github.com/Schnider-technology)
 
