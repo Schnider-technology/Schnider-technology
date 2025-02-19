@@ -7,6 +7,7 @@
 - 💬 Ask me about (React Js , Next Js , HTML , CSS , JAVASCRIPT ).
 - 📫 How to reach me: Website: linkedin.com/in/abdullah-bazar-783098352/ 
 
+<hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/A_b_61s" target="blank">
@@ -19,8 +20,8 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.h.b_13" height="30" width="40" />
     </a>
 </p>
-
-<p align="left"> 
+<hr/>
+<p align="left">
     <img src="https://komarev.com/ghpvc/?username=Schneider-2000&label=Profile%20views&color=0e75b6&style=flat" alt="Schneider-2000" />
 </p>
 
@@ -45,11 +46,23 @@
 
 <hr/>
 <img src="https://github-readme-stats.vercel.app/api?username=H-7117&count_private=true&show_icons=true&hide_title=true" />
+<hr/>
 <img src="https://github-profile-trophy.vercel.app/?username=H-7117&theme=flat&no-frame=true&margin-w=30" />
+<hr/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-7117&hide_title=true&layout=compact" />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Schnider-technology&show_icons=true&locale=en&layout=compact" alt="Schnider-Technology" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Schnider-technology&show_icons=true&locale=en" alt="Schnider-technology" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Schnider-technology&" alt="Schnider-technology" /></p>
+<hr/>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Schnider-technology&show_icons=true&locale=en&layout=compact" alt="Schnider-Technology" />
+</p>
+<hr/>
+<p>&nbsp;
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Schnider-technology&show_icons=true&locale=en" alt="Schnider-technology" />
+</p>
+<hr/>
+<p>
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Schnider-technology&" alt="Schnider-technology" />
+</p>
+<hr/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=H-7117&theme=gruvbox_duo&hide_border=true)](https://github.com/Schnider-technology)
 
