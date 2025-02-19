@@ -27,7 +27,7 @@
 <br/>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <hr/>
-
+<br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -45,7 +45,7 @@
 </p>
 <br/>
 <hr/>
-
+<br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Schnider-technology&amp;show_icons=true&amp;locale=en" alt="Schnider-technology" style="max-width: 100%;">
 <hr/>
 <br/>
