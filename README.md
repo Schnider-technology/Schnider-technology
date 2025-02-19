@@ -45,11 +45,19 @@
 </p>
 
 <hr/>
-<img src="https://github-readme-stats.vercel.app/api?username=Schnider-technology&count_private=true&show_icons=true&hide_title=true" />
+<p>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=Schnider-technology&count_private=true&show_icons=true&hide_title=true" />
+</p>
 <hr/>
 <img src="https://github-profile-trophy.vercel.app/?username=Schnider-technology&theme=flat&no-frame=true&margin-w=30" />
 <hr/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schnider-technology&hide_title=true&layout=compact" />
+<hr/>
+
+<p>
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Schnider-technology&" alt="Schnider-technology" />
+</p>
+<hr/>s
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Schnider-technology&theme=gruvbox_duo&hide_border=true)](https://github.com/Schnider-technology)
 
