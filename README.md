@@ -21,9 +21,9 @@
     </a>
 </p>
 <hr/>
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=Schneider-2000&label=Profile%20views&color=0e75b6&style=flat" alt="Schneider-2000" />
-</p>
+<!-- <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=Schnider-technology&label=Profile%20views&color=0e75b6&style=flat" alt="Schnider-technology" />
+</p> -->
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <hr/>
@@ -45,26 +45,13 @@
 </p>
 
 <hr/>
-<img src="https://github-readme-stats.vercel.app/api?username=H-7117&count_private=true&show_icons=true&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Schnider-technology&count_private=true&show_icons=true&hide_title=true" />
 <hr/>
-<img src="https://github-profile-trophy.vercel.app/?username=H-7117&theme=flat&no-frame=true&margin-w=30" />
+<img src="https://github-profile-trophy.vercel.app/?username=Schnider-technology&theme=flat&no-frame=true&margin-w=30" />
 <hr/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-7117&hide_title=true&layout=compact" />
-<hr/>
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Schnider-technology&show_icons=true&locale=en&layout=compact" alt="Schnider-Technology" />
-</p>
-<hr/>
-<p>&nbsp;
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Schnider-technology&show_icons=true&locale=en" alt="Schnider-technology" />
-</p>
-<hr/>
-<p>
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Schnider-technology&" alt="Schnider-technology" />
-</p>
-<hr/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schnider-technology&hide_title=true&layout=compact" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=H-7117&theme=gruvbox_duo&hide_border=true)](https://github.com/Schnider-technology)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Schnider-technology&theme=gruvbox_duo&hide_border=true)](https://github.com/Schnider-technology)
 
 
 
