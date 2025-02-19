@@ -43,21 +43,17 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </a>
 </p>
+<br/>
+<hr/>
+<img align="center" src="https://camo.githubusercontent.com/63dec044daf9fad3b0fa2b27226b34e9479f054b811d7b3c9a54684594cbe8dc/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d5363686e65696465722d323030302673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="Schnider-technology" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Schnider-technology&amp;show_icons=true&amp;locale=en" style="max-width: 100%;">
+<hr/>
+<img src="https://camo.githubusercontent.com/01f888f668987346329f0474f6e46ea7d8268ae220dba2e6fb1840c34d12a787/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d482d37313137267468656d653d666c6174266e6f2d6672616d653d74727565266d617267696e2d773d3330" data-canonical-src="https://github-profile-trophy.vercel.app/?username=H-7117&amp;theme=flat&amp;no-frame=true&amp;margin-w=30" style="max-width: 100%;">
+<hr/>
 
-<hr/>
-<p>&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=Schnider-technology&count_private=true&show_icons=true&hide_title=true" />
-</p>
-<hr/>
-<img src="https://github-profile-trophy.vercel.app/?username=Schnider-technology&theme=flat&no-frame=true&margin-w=30" />
-<hr/>
+<img align="left" src="https://camo.githubusercontent.com/e9e9316ad476cbfeb2a7fe3b0e393f28b28f25e412f12b91f9caf20b572d1c66/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d5363686e65696465722d323030302673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="Schnider-technology" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=Schnider-technology&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schnider-technology&hide_title=true&layout=compact" />
 <hr/>
-
-<p>
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Schnider-technology&" alt="Schnider-technology" />
-</p>
-<hr/>s
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Schnider-technology&theme=gruvbox_duo&hide_border=true)](https://github.com/Schnider-technology)
 
