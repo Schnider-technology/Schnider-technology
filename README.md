@@ -21,12 +21,15 @@
     </a>
 </p>
 <hr/>
-<!-- <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=Schnider-technology&label=Profile%20views&color=0e75b6&style=flat" alt="Schnider-technology" />
-</p> -->
+
 <br/>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <hr/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -56,7 +59,7 @@
 <img align="left" src= "https://github-readme-stats.vercel.app/api/top-langs?username=Schnider-technology&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="Schnider-technology"  style="max-width: 100%;">
 <br/>
 
-
+<hr/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Schnider-technology&theme=gruvbox_duo&hide_border=true)](https://github.com/Schnider-technology)
 
 
